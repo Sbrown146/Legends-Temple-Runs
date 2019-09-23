@@ -1,1 +1,2 @@
-web: ./run.sh
+web: python -m http:server
+
