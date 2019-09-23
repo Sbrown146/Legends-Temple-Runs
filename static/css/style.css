@@ -29,3 +29,7 @@
     left: 0;
     bottom: 0;
 } */
+
+select:focus > option:checked { 
+    background: rgba(0,255,0,0) !important;
+}
